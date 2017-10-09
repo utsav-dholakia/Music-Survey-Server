@@ -13,6 +13,7 @@ For testing this server, I'm using Mocha and Chai frameworks.
 
 
 ### __STEPS TO RUN__
+* Install Node.js and npm(preferrably node version : 6.11.4 and npm version : 3.10.10).
 * Clone this repository.
 * Run __npm update__ command at the root of the project. This will download and update all the dependacies needed to run/test this server.
 * To run the server, use __npm start__ command at the root of project directory.
