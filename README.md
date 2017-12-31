@@ -23,3 +23,4 @@ For testing this server, I'm using Mocha and Chai frameworks.
 ## __Note__
 * This project is built using Node version : 6.11.4 and npm version : 3.10.10.
 * This project is built using Webstorm IDE from JetBrains.
+* To go to the client for this project, use [Music-Survey-Client](https://github.com/utsav-dholakia/Music-Survey-Client)
